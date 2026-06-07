@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.db.bak
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Node
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# macOS
+.DS_Store
+
+# Uploaded resumes
+backend/app/static/resumes/
